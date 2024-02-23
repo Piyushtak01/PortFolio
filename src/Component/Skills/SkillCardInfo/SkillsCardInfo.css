@@ -4,7 +4,7 @@
     border: 1.5px solid #6751b9;
     background: rgba(22, 17, 47, 0.398);
     backdrop-filter: blur(1rem);
-
+    
 }
 
 #skills-info-card h6 {
@@ -20,7 +20,7 @@
 
 #skills-info-content {
     padding: 2rem;
- 
+    flex-shrink: 0;
 }
 
 #skills-info {
