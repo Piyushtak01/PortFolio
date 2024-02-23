@@ -4,8 +4,8 @@
     border: 1.5px solid #6751b9;
     background: rgba(22, 17, 47, 0.398);
     backdrop-filter: blur(1rem);
-}
 
+}
 
 #skills-info-card h6 {
     font-size: 1.2rem;
@@ -20,32 +20,11 @@
 
 #skills-info-content {
     padding: 2rem;
+ 
 }
 
-#skills-info{
+#skills-info {
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-
-
-#skills-info p {
-    font-size: 1rem;
-    font-weight: 500;
-}
-
-#skills-info #percentage {
-    color: #dd8cfa;
-
-}
-
-#skills-progress-bg{
-    width: 100%;
-    height: 0.5rem;
-    background: #382e68;
-    border-radius: 0.5rem;
-    margin: 1rem 0;
-    overflow: hidden;
-    
-
 }
