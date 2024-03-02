@@ -9,7 +9,7 @@ const SkillsCardInfo = ({ heading, skills }) => {
       <div id="skills-info-content">
         {skills.map((item, index) => (
           <div key={`skill_${index}`}>
-            <div id="skills-info">
+            <div id="data-info">
               <p>{item.skill}</p>
               <p id="percentage">{item.percentage}</p>
             </div>

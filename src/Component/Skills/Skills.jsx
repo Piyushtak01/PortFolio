@@ -17,8 +17,8 @@ export const Skills = () => {
   return (
     <section id="skills-container" className="my-16 mx-0 relative">
       <h5 className="text-[1.5rem] font-semibold mb-14 font-Gilroy">Technical Proficiency</h5>
-      <div id="skills-content" className="flex items-start gap-12 ">
-        <div id="skills" >
+      <div id="skill-content" className="flex items-start gap-12 ">
+        <div id="skills">
             {SKILLS.map((item) => (
               <SkillsCard 
                key={item.title}
@@ -31,7 +31,7 @@ export const Skills = () => {
                />
             ))}
         </div>
-        <div id="skills-info" className="flex-1">
+        <div id="skill-data" className="flex-1">
           <SkillsCardInfo
               heading={selectedSkill.title}
               skills= {selectedSkill.skills}

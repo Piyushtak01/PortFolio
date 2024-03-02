@@ -41,3 +41,46 @@ export const SKILLS = [
     ],
   },
 ];
+
+export const projects = [
+  {
+    title: "Sundown Studio",
+    description: "A fully Responsive Nike Sundown Studio Clone with all the Animations and toggles",
+    technology: "Html , CSS , javascript",
+    image: "./Assests/images/Sundown.png",
+    Git : "https://github.com/Piyushtak01/-Expensify" ,
+    Lookout: "https://piyushtak01.github.io/SunDownSite/",
+  },
+  {
+    title: "Project 2",
+    description: "This is the description for project 2.",
+    technology: "React, Node.js, MongoDB",
+    image: "./Assests/images/Sundown.png",
+    Git : "https://github.com/Piyushtak01/-Expensify" ,
+    Lookout: "https://piyushtak01.github.io/SunDownSite/",
+  },
+  {
+    title: "Expensify",
+    description: "Introducing a cross-platform application to help you manage your travel expenses .",
+    technology: " React-Native  ,  Firebase" ,
+    image: "./Assests/images/Expensify.png",
+    Git : "https://github.com/Piyushtak01/-Expensify" ,
+    Lookout: "https://github.com/Piyushtak01/-Expensify/tree/main/Project%20Sampls",
+  },
+  {
+    title: "Project 4 ",
+    description: "Introducing a cross-platform application to help you manage your travel expenses .",
+    technology: " React-Native  ,  Firebase" ,
+    image: "./Assests/images/Expensify.png",
+    Git : "https://github.com/Piyushtak01/-Expensify" ,
+    Lookout: "https://github.com/Piyushtak01/-Expensify/tree/main/Project%20Sampls",
+  },
+  {
+    title: "Project 5",
+    description: "Introducing a cross-platform application to help you manage your travel expenses .",
+    technology: " React-Native  ,  Firebase" ,
+    image: "./Assests/images/Expensify.png",
+    Git : "https://github.com/Piyushtak01/-Expensify" ,
+    Lookout: "https://github.com/Piyushtak01/-Expensify/tree/main/Project%20Sampls",
+  },
+];
