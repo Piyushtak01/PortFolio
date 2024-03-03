@@ -29,16 +29,16 @@ function Navbar() {
           />
           <ul id="nav-content-ul" className="flex items-center gap-2 list-none">
             <li>
-              <a id="menu-item">Home</a>
+              <a id="menu-item" href="#hero-container" >Home</a>
             </li>
             <li>
-              <a id="menu-item">Skills</a>
+              <a id="menu-item" href='#skills-container'>Skills</a>
             </li>
             <li>
-              <a id="menu-item">Projects</a>
+              <a id="menu-item" href="#Project-container">Projects</a>
             </li>
             <li>
-              <a id="menu-item">Contact Me</a>
+              <a id="menu-item" href="#contact-container">Contact Me</a>
             </li>
             <button
               className="text-[0.9rem] font-medium flex items-center justify-center py-[0.6rem] px-8 border-none outline-none rounded cursor-pointer transition-all duration-0.3 ease-in bg-gradient-to-r from-purple-500 to-violet-600 hover:text-violet-400 hover:outline-violet-400 hover:from-black hover:to-black"
