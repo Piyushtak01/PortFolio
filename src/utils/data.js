@@ -45,17 +45,17 @@ export const SKILLS = [
 export const projects = [
   {
     title: "Sundown Studio",
-    description: "A fully Responsive Nike Sundown Studio Clone with all the Animations and toggles",
+    description: " Responsive Nike Sundown Studio Clone with all the Animations and toggles",
     technology: "Html , CSS , javascript",
     image: "./Assests/images/Sundown.png",
     Git : "https://github.com/Piyushtak01/-Expensify" ,
     Lookout: "https://piyushtak01.github.io/SunDownSite/",
   },
   {
-    title: "Project 2",
-    description: "This is the description for project 2.",
-    technology: "React, Node.js, MongoDB",
-    image: "./Assests/images/Sundown.png",
+    title: "PortFolio Website",
+    description: "Responsive Mobile Developer personal portfolio website with contact page and other functionalities ",
+    technology: "ReactJS , Tailwind ",
+    image: "./Assests/images/Portfolio.png",
     Git : "https://github.com/Piyushtak01/-Expensify" ,
     Lookout: "https://piyushtak01.github.io/SunDownSite/",
   },
