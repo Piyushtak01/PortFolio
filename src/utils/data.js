@@ -1,7 +1,7 @@
 export const SKILLS = [
   {
     title: "Frontend",
-    icon: "./dist/images/frontend.png",
+    icon: "images/frontend.png",
     skills: [
       { skill: "HTML5", percentage: "80%" },
       { skill: "CSS3 (Sass/SCSS)", percentage: "90%" },
@@ -13,7 +13,7 @@ export const SKILLS = [
   },
   {
     title: "Backend",
-    icon: "./dist/images/backend.png",
+    icon: "images/backend.png",
     skills: [
       { skill: "Node.js", percentage: "70%" },
       { skill: "SQLlite", percentage: "65%" },
@@ -22,7 +22,7 @@ export const SKILLS = [
   },
   {
     title: "Tools",
-    icon: "./dist/images/process.png",
+    icon: "images/process.png",
     skills: [
       { skill: "Git & GitHub", percentage: "85%" },
       { skill: "Visual Studio Code", percentage: "75%" },
@@ -32,7 +32,7 @@ export const SKILLS = [
   },
   {
     title: "Qualities",
-    icon: "./dist/images/ability.png",
+    icon: "images/ability.png",
     skills: [
       { skill: "Problem-solving", percentage: "80%" },
       { skill: "LeaderShip", percentage: "90%" },
@@ -47,7 +47,7 @@ export const projects = [
     title: "Sundown Studio",
     description: " Responsive Nike Sundown Studio Clone with all the Animations and toggles",
     technology: "Html , CSS , javascript",
-    image: "./dist/images/Sundown.png",
+    image: "images/Sundown.png",
     Git : "https://github.com/Piyushtak01/-Expensify" ,
     Lookout: "https://piyushtak01.github.io/SunDownSite/",
   },
@@ -55,7 +55,7 @@ export const projects = [
     title: "PortFolio Website",
     description: "Responsive Mobile Developer personal portfolio website with contact page and other functionalities ",
     technology: "ReactJS , Tailwind ",
-    image: "./dist/images/Portfolio.png",
+    image: "images/Portfolio.png",
     Git : "https://github.com/Piyushtak01/-Expensify" ,
     Lookout: "https://piyushtak01.github.io/SunDownSite/",
   },
@@ -63,7 +63,7 @@ export const projects = [
     title: "Expensify",
     description: "Introducing a cross-platform application to help you manage your travel expenses .",
     technology: " React-Native  ,  Firebase" ,
-    image: "./dist/images/Expensify.png",
+    image: "images/Expensify.png",
     Git : "https://github.com/Piyushtak01/-Expensify" ,
     Lookout: "https://github.com/Piyushtak01/-Expensify/tree/main/Project%20Sampls",
   },
@@ -71,7 +71,7 @@ export const projects = [
     title: "Project 4 ",
     description: "Introducing a cross-platform application to help you manage your travel expenses .",
     technology: " React-Native  ,  Firebase" ,
-    image: "./dist/images/Expensify.png",
+    image: "images/Expensify.png",
     Git : "https://github.com/Piyushtak01/-Expensify" ,
     Lookout: "https://github.com/Piyushtak01/-Expensify/tree/main/Project%20Sampls",
   },
@@ -79,7 +79,7 @@ export const projects = [
     title: "Project 5",
     description: "Introducing a cross-platform application to help you manage your travel expenses .",
     technology: " React-Native  ,  Firebase" ,
-    image: "./dist/images/Expensify.png",
+    image: "images/Expensify.png",
     Git : "https://github.com/Piyushtak01/-Expensify" ,
     Lookout: "https://github.com/Piyushtak01/-Expensify/tree/main/Project%20Sampls",
   },
