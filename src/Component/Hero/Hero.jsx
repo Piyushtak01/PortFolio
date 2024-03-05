@@ -13,26 +13,25 @@ const Hero = () => {
           Cross-Platform Tachnology
         </p>
       </div>
-
       <div
         id="hero-img"
         className="flex-1 flex flex-col items-center gap-8 mt-20 "
       >
         <div>
           <div id="tech-icon" >
-            <img src="./Assests/images/react.png" alt="" />
+            <img src="./src/images/react.png" alt="" />
           </div>
-          <img  src="./Assests/images/image.png" alt="" />
+          <img  src="./src/images/image.png" alt="" />
         </div>
         <div>
           <div id="tech-icon">
-            <img src="./Assests/images/html.png" alt="" />
+            <img src="./src/images/html.png" alt="" />
           </div>
           <div id="tech-icon">
-            <img src="./Assests/images/css.png" alt="" />
+            <img src="./src/images/css.png" alt="" />
           </div>
           <div id="tech-icon">
-            <img src="./Assests/images/js.png" alt="" />
+            <img src="./src/images/js.png" alt="" />
           </div>
         </div>
       </div>
