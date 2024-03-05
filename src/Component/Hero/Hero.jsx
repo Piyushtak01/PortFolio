@@ -19,19 +19,19 @@ const Hero = () => {
       >
         <div>
           <div id="tech-icon" >
-            <img src="./public/images/react.png" alt="" />
+            <img src="./dist/images/react.png" alt="" />
           </div>
-          <img  src="public/images/image.png" alt="" />
+          <img  src="./dist/images/image.png" alt="" />
         </div>
         <div>
           <div id="tech-icon">
-            <img src="./public/images/html.png" alt="" />
+            <img src="./dist/images/html.png" alt="" />
           </div>
           <div id="tech-icon">
-            <img src="./public/images/css.png" alt="" />
+            <img src="./dist/images/css.png" alt="" />
           </div>
           <div id="tech-icon">
-            <img src="./public/images/js.png" alt="" />
+            <img src="./dist/images/js.png" alt="" />
           </div>
         </div>
       </div>
