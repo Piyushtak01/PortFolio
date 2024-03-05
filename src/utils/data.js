@@ -53,7 +53,7 @@ export const projects = [
   },
   {
     title: "PortFolio Website",
-    description: "Responsive Mobile Developer personal portfolio website with contact page and other functionalities ./src/images/logo.png",
+    description: "Responsive Mobile Developer personal portfolio website with contact page and other functionalities ",
     technology: "ReactJS , Tailwind ",
     image: "./src/images/Portfolio.png",
     Git : "https://github.com/Piyushtak01/-Expensify" ,
