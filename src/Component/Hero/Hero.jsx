@@ -21,7 +21,7 @@ const Hero = () => {
           <div id="tech-icon" >
             <img src="./public/images/react.png" alt="" />
           </div>
-          <img  src="./public/images/image.png" alt="" />
+          <img  src="public/images/image.png" alt="" />
         </div>
         <div>
           <div id="tech-icon">
