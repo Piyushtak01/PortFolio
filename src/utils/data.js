@@ -48,7 +48,7 @@ export const projects = [
     description: " Responsive Nike Sundown Studio Clone with all the Animations and toggles",
     technology: "Html , CSS , javascript",
     image: "images/Sundown.png",
-    Git : "https://github.com/Piyushtak01/-Expensify" ,
+    Git : "https://github.com/Piyushtak01/SunDownSite" ,
     Lookout: "https://piyushtak01.github.io/SunDownSite/",
   },
   {
@@ -56,8 +56,8 @@ export const projects = [
     description: "Responsive Mobile Developer personal portfolio website with contact page and other functionalities ",
     technology: "ReactJS , Tailwind ",
     image: "images/Portfolio.png",
-    Git : "https://github.com/Piyushtak01/-Expensify" ,
-    Lookout: "https://piyushtak01.github.io/SunDownSite/",
+    Git : "https://github.com/Piyushtak01/PortFolio" ,
+    Lookout: "https://port-folio-mu-one.vercel.app",
   },
   {
     title: "Expensify",
