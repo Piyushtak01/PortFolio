@@ -24,7 +24,7 @@ function Navbar() {
           <img
             id="logo"
             className="w-[12rem] h-auto"
-            src="./public/images/logo.png"
+            src="./logo.png"
             alt=""
           />
           <ul id="nav-content-ul" className="flex items-center gap-2 list-none">
