@@ -5,7 +5,7 @@
   
   "version": "0.0.0",
   
-  
+  "homepage": "https://Piyushtak01.github.io/PortFolio/",
   "type": "module",
  
   "scripts": {
@@ -22,7 +22,11 @@
    
   "preview": "vite preview",
  
-
+   
+  "predeploy": "npm run build",
+ 
+   
+  "deploy": "gh-pages -d dist"
  
   },
  
